@@ -3,7 +3,7 @@ import { toPercent } from "./toPercent";
 
 describe("toPercent", () => {
   it("should fail", () => {
-    expect(true).to.eq(false);
+    expect(true).to.eq(100);
   });
 
   it("should return 50%", () => {
