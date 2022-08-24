@@ -2,6 +2,10 @@ import { expect } from "chai";
 import { toPercent } from "./toPercent";
 
 describe("toPercent", () => {
+  it("should fail", () => {
+    expect(true).to.eq(false);
+  });
+
   it("should return 50%", () => {
     expect(toPercent(0.5)).to.equal("50%");
   });
