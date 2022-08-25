@@ -184,12 +184,12 @@ module.exports = {
         address: "matic:0x40eDBC75C543954CDD9c5ae7398342788F46A85B",
         link: "https://optimistic.etherscan.io/address/0xe245d82DDeDfB95ccaf68B9B609F1717B1A14A54",
       },
-      {
-        name: "Forefront Dashboard",
-        keywords: ["Info", "Metrics"],
-        link: "https://www.terminal.co/community/social/krausehouse.eth",
-        favorite: false,
-      },
+      // {
+      //   name: "Forefront Dashboard",
+      //   keywords: ["Info", "Metrics"],
+      //   link: "https://www.terminal.co/community/social/krausehouse.eth",
+      //   favorite: false,
+      // },
       // {
       //   name: "Discord",
       //   link: "",
